@@ -2,7 +2,7 @@ syntax="proto3";
 
 //option go_package = "proto.customer";
 
-package main;
+package protoc;
 
 message Customer {
       int32 Id = 1;
